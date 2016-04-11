@@ -24,7 +24,7 @@ MLO="${DEPLOY}/MLO"
 UBOOT="${DEPLOY}/u-boot.img"
 
 IMAGE="zImage"
-DTB="am335x-bone.dtb"
+DTB="zImage-am335x-boneblack.dtb"
 
 # card info
 DISK=$1
